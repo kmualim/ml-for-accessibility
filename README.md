@@ -18,5 +18,5 @@ Unzip the data file provided and run the preproceessing script
 ## Requirements and Installation
 
 In order to run the notebook, you'll need 
-* Wolfram Mathematica(https://reference.wolfram.com/language/tutorial/InstallingMathematica.html) 
+* [Wolfram Mathematica](https://reference.wolfram.com/language/tutorial/InstallingMathematica.html) 
 
