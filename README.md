@@ -20,7 +20,7 @@ Unzip the data file provided and run the preproceessing script on the correspond
   bash process.bash
   ```
 - process.bash proceeds to isolate the x,y,z coordinates of the given activity for input into our algorithm. 
-- the output consists of (stair/walk)_(x/y/z)_.csv files and these x,y,z coordinates were then subsequently concatenated to produce a spectogram 
+- the output consists of (stair/walk)_(x/y/z)_.csv files and these x,y,z coordinates were then subsequently concatenated to produce a spectogram <br>
 
 ![](images/walk.png)
 Figure 1: Spectrogram of "Walk"
